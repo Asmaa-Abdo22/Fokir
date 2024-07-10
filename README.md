@@ -1,6 +1,6 @@
 # Fokir Personal Portfolio 
 
-This is a Template Personal Portfolio Named as Alex Smith. It was created as a practice on pure HTML and pure Css
+This is a Template Personal Portfolio Named as Alex Smith. It was created as a practice on  HTML and pure Css
 
 # Demo :
 
