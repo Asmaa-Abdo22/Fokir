@@ -12,5 +12,5 @@ https://asmaa-abdo22.github.io/Fokir/
 
 # Technologies used :
 
-. HTML
-. Css
+* HTML
+* Css
